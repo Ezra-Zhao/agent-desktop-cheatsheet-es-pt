@@ -1,5 +1,7 @@
 # agent-desktop 速查表 | agent-desktop Cheatsheet | Guía rápida de agent-desktop
 
+> 📚 **合集版**：这张表已收进旗舰合集 [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) —— 100 张速查表在一个仓库里，欢迎去合集点 ⭐。
+
 > 一页看懂 agent-desktop（Vercel Labs 出品）：给 AI agent 装上可靠的「操作电脑」能力——它不看截图像素猜坐标，而是读操作系统的无障碍树（accessibility tree），树上每个可操作元素都带一个稳定 ref，agent 点 ref 做动作、再拍一张新快照复查，动作可以安全重试。让 agent 用电脑，别再让它对着截图猜按钮在哪。
 
 - 上游项目：[vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)（2026-11-02 实测 7,564 ★ / 540 forks，47 个 release，Apache-2.0）
